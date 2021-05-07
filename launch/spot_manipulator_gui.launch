@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="spot_manipulator_gui" type="spot_manipulator_gui" name="spot_manipulator_gui" output="screen"/>
+</launch>
